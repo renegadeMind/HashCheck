@@ -18,7 +18,7 @@ print('\x1b[97;1;49m***********************\n'
 	+ '***********************\x1b[0m\n')
 
 #Disclaimer
-print('\x1b[93;1;49m Disclaimer: Opening any file on the basis of the results of this software is at the reisk of the user. We do not take any responsibility.\x1b[0m\n\n\n')
+print('\x1b[93;1;49m Disclaimer: Opening any file on the basis of the results of this software is at the risk of the user. We do not take any responsibility.\x1b[0m\n\n\n')
 
 #If the users operating system is not supported the script informs the user and terminates.
 if platform != 'Darwin':
